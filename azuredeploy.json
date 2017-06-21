@@ -19,7 +19,7 @@
     "variables": {
         "storageName": "[concat('function', uniqueString(parameters('siteName')))]",
         "contentShareName": "[toLower(parameters('siteName'))]",
-        "repoUrl": "https://github.com/joescars/TugOfWar-FunctionsDemo.git",
+        "repoUrl": "https://github.com/JSkimming/TugOfWar-FunctionsDemo.git",
         "branch": "master"
     },
     "resources": [
