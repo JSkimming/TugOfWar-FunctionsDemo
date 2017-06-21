@@ -49,4 +49,4 @@ Behind the scenes we are using Azure Functions with Storage Queues, Table Storag
 Please feel free to reach out to me with questions on twitter [@joescars](https://www.twitter.com/joescars)
 
 ## Easy Deploy ##
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoescars%2FTugOfWar-FunctionsDemo%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJSkimming%2FTugOfWar-FunctionsDemo%2Fmaster%2Fazuredeploy.json)
